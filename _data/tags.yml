@@ -1,16 +1,8 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+getting-started:
+  name: getting-started in Google Cloud Platform
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
+bigquery:
+  name: Big Query
+  description: Google Cloud Platform Bigquery
   cover: False
