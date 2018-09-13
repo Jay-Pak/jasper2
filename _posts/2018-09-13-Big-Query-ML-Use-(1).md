@@ -45,7 +45,7 @@ sitemap :
 
 
 
->  {%gist Jay-Pak/980199b2dc257a54a52c990c76e38de2.js %}
+>  {%gist Jay-Pak/980199b2dc257a54a52c990c76e38de2 %}
 >
 > ```sql
 > #standardSQL
