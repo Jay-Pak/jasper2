@@ -17,7 +17,7 @@ sitemap :
 
 
 
-> [1. Big Query ML 이용해보기 (1)](./Big-Query-ML-Use-(1))
+> [1. Big Query ML 이용해보기 (1) - Understanding Data(Business)](./Big-Query-ML-Use-(1))
 
 
 
@@ -35,7 +35,7 @@ sitemap :
 
 
 
-# 1. 데이터 탐색 및 데이터 이해하기 (Understanding Business)
+# 데이터 탐색 및 데이터 이해하기 (Understanding Business)
 
  우선 Machine Learning을 위해서는 데이터에 대한 이해 및 탐색. 그리고, 예측을 위해 필요한 데이터의 특성은 무엇인가에 대한 이해가 선행 되어야 한다. 아래 예제에서 사용하는  `data-to-insights.ecommerce.web_analytics` 는 BigQuery ML을 Test 하기 위해 Merchandise Store의 데이터를 공개한 것이다.
 
