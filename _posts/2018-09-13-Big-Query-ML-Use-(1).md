@@ -73,11 +73,15 @@ sitemap :
 
  위의 데이터는 전체 방문자 대비 실제 구매자를 구하는 데이터이다. 위의 with절의 visitor는 방문자의 ID를 Count 하는 데이터이고, purchasers는 전체 데이터중 Transaction Flag가 있는 경우를 거래가 이루어진 것으로 보고, Count 한 데이터이다. 
 
-<center>
-    <img src="../assets/images/bigquery/Bigquery-ML-1.png"/>
-	<br/>
-    <em>< Fig. 1 - 방문자 대비 실제 구매자 ></em>
-</center>
+>  
+>
+> <center>
+>     <img src="../assets/images/bigquery/Bigquery-ML-1.png"/>
+> 	<br/>
+>     <em>< Fig. 1 - 방문자 대비 실제 구매자 ></em>
+> </center>
+>
+>  
 
 
 
