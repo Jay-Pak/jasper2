@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: False
 navigation: True
-title: Democratization of Machine Learning - Bigquery ML
+title: Bigquery ML - BigQuery에서 Machine Learning을..
 date: 2018-09-06 10:18:00
 tags: [bigquery]
 class: post-template
