@@ -15,7 +15,9 @@ sitemap :
   priority : 0.1
 ---
 
-지난 7월 미국 San Francisco Mountain - View에서 있었던 Google Next'18 에서 Big Query ML에 대한 Announce 가 있었다. 이번 포스팅에서는 Big Query ML에 대한 간략한 소개에 대해 이야기 해보고자 한다. 
+
+
+
 
 <center>
     <img src="https://lh3.googleusercontent.com/-yYQHr3BnoKU/WvsR07QaYiI/AAAAAAAABgA/V2WfyrpctnInmJb-9B9E-MuMQ7ehPdzkgCJoC/w530-h298-n-rw/NEXT_2018_COLOR_TWITTER%2B%25284%2529.gif"/>
