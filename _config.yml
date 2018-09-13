@@ -44,6 +44,7 @@ permalink: /:title
 # gems and other configs
 plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
 exclude: [vendor]
+
 feed:
   path: feed.xml
 
