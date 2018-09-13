@@ -4,7 +4,7 @@ current: post
 cover: False
 navigation: True
 title: Big Query ML 이용해 보기 (1)
-date: 2018-09-13 10:18:00
+date: 2018-09-06 10:18:00
 tags: [bigquery]
 class: post-template
 subclass: 'post'
@@ -27,15 +27,17 @@ sitemap :
 
 앞서 이야기한대로 `BigQuery ML`은 Linear Regression(선형 회귀), Binary logistic regression(이진 로지스틱 회귀)의 모델을 생성 할 수 있다. `Linear Regressor`는 수치를 예측 하고자 할 때, `Binary logistics regression`은 분류 예측을 하고자 할때 사용한다. 
 
-이번 Post는 `BigQuery ML`에 앞서 Business를 이해하기 위한 데이터의 탐색을 해보록 한다.
+이번 Post는 `BigQuery ML`에 앞서 분석에 필요한 데이터를 탐색하는 것을 포스팅 해보도록 하겠다.
 
 
 
-# 데이터 탐색 및 데이터 이해하기 ( Understanding Business)
+
+
+
+
+# 데이터 탐색 및 데이터 이해하기 (Understanding Business)
 
  우선 Machine Learning을 위해서는 데이터에 대한 이해 및 탐색. 그리고, 예측을 위해 필요한 데이터의 특성은 무엇인가에 대한 이해가 선행 되어야 한다. 아래 예제에서 사용하는  `data-to-insights.ecommerce.web_analytics` 는 BigQuery ML을 Test 하기 위해 Merchandise Store의 데이터를 공개한 것이다.
-
-
 
 ## 1. 방문자 대비 구매자
 
