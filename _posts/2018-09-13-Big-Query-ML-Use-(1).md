@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: False
 navigation: True
-title: Big Query ML 이용해 보기 (1)
+title: Big Query ML 사용해 보기 (1)
 date: 2018-09-06 10:18:00
 tags: [bigquery]
 class: post-template
@@ -17,7 +17,7 @@ sitemap :
 
 
 
-> [1. Big Query ML 이용해보기 (1) - Understanding Data(Business)](./Big-Query-ML-Use-(1))
+> [1. Big Query ML 사용해보기 (1) - Understanding Data(Business)](./Big-Query-ML-Use-(1))
 
 
 
