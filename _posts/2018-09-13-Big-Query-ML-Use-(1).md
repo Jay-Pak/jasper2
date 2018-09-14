@@ -11,7 +11,7 @@ subclass: 'post'
 author: google-cloud
 sitemap :
   changefreq : daily
-  priority : 0.1
+  priority : 1.0
 
 ---
 

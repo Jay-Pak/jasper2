@@ -11,7 +11,7 @@ subclass: 'post'
 author: google-cloud
 sitemap :
   changefreq : daily
-  priority : 0.1
+  priority : 1.0
 ---
 
 이번 포스트는 Big Query ML을 뜯어 보고자 한다. 

@@ -12,7 +12,7 @@ author: google-cloud
 comments: true
 sitemap :
   changefreq : daily
-  priority : 0.1
+  priority : 1.0
 ---
 
 
