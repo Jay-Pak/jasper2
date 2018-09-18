@@ -16,7 +16,7 @@ sitemap :
 
 ---
 
-> [Google Cloud Compute Engine (1) - Project 생성하기]({{site.url}}/Google-Cloud-Compute-Engine-Usage)
+> [Google Cloud Compute Engine (1) - Project 생성하기]({{site.url}}/Google-Cloud-Compute-Engine-Usage-1)
 >
 > [Google Cloud Compute Engine (2) - Compute Engine Instance 생성]({{site.url}}/Google-Cloud-Compute-Engine-Usage-2/)
 
