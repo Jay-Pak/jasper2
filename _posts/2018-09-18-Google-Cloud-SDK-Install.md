@@ -4,7 +4,7 @@ current: post
 cover: False
 navigation: True
 title: Google Cloud SDK (gcloud) Install
-date: 2018-09-06 10:18:00
+date: 2018-09-18 10:18:00
 tags: [getting-started]
 class: post-template
 subclass: 'post'
