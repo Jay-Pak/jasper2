@@ -28,7 +28,7 @@ compute-engine:
   url_full: https://cloud.google.com/compute
   url: cloud.google.com/compute
   bio: Google이 제공하는 확장 가능한 고성능 VM
-  picture: https://cloud.google.com/images/products/artwork/high-performance.svg
+  picture: False
   facebook: False
   twitter: False
   cover: False
