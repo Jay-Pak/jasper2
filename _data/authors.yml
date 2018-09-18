@@ -21,3 +21,14 @@ google-cloud:
   facebook: False
   twitter: False
   cover: False
+compute-engine:
+  username: compute-engine
+  name: Google Cloud Compute Engine
+  location: False
+  url_full: https://cloud.google.com/compute
+  url: cloud.google.com/compute
+  bio: Google이 제공하는 확장 가능한 고성능 VM
+  picture: https://cloud.google.com/images/products/artwork/high-performance.svg
+  facebook: False
+  twitter: False
+  cover: False
