@@ -17,15 +17,11 @@ sitemap :
 
 ---
 
-이번 Post에서는 Google Cloud의 자원 중 Compute Engine을 사용하는 방법에 대해 알아 보도록 하겠다. [Google Cloud Compute Engine(GCE)](https://cloud.google.com/compute/)은 Google Cloud 내에 [가상 머신(Virtual Machine=VM)](https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%EB%A8%B8%EC%8B%A0#%EA%B0%80%EC%83%81_%EB%A8%B8%EC%8B%A0_%EC%9D%91%EC%9A%A9_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)으로 Google Cloud의 [Iaas(Infrastructure as a Service)](https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%EC%84%9C%EC%9D%98_%EC%9D%B8%ED%94%84%EB%9D%BC%EC%8A%A4%ED%8A%B8%EB%9F%AD%EC%B2%98)이다. Compute Engine을 이용하면, Google의 Peta byte급의 Network 및 Persistant Disk 등의 자원을 저렴하게 이용할 수 있고, 높은 수준의 [SLA(Service Level Agreement)](https://cloud.google.com/compute/sla)를 보장한다. 
 
-
-
-# Google Cloud Platform Console
 
 Google Cloud의 Service를 이용하기 위해서는 [Google Cloud Platform Console](https://console.cloud.google.com/)에 접속하여 사용 하면 되는데, Console에 접속 하기 위해서는 Google Cloud Platform에 가입절차를 거쳐야 한다. 가입을 위해서는 Gmail계정이나 Google의 Business [SaaS(Service as a Service)](https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%EC%84%9C%EC%9D%98_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4) Service인 G Suite서비스를 이용중 인 Mail계정이 필요하다. 이와는 별도로 계정에 연결할 신용카드가 필요한데, 해외 결제 가능 카드(VISA, Master, Union Pay etc..)면 사용 가능하다. 
 
-Google은 가입하는 순간 300\$의 무료 Credit을 12개월 동안 사용 가능 하도록 제공한다. 그리고, 300\$의 Credit을 전부 사용 했거나, 12개월의 기간이 끝난다 하더라도 자동으로 과금이 되지 않고, 가입한 계정의 업그레이드를 해야지만 과금이 시작되므로, 잠시 Test를 위해 계정을 만들어서 신용카드를 연결 한다고 해서 사용료를 낼 걱정은 하지 않아도 된다. 
+Google은 가입하는 순간 300\$의 무료 Credit을 12개월 동안 사용 가능 하도록 제공한다. 그리고, 300\$의 Credit을 전부 사용 했거나, 12개월의 기간이 끝난다 하더라도 자동으로 과금이 되지 않고, 가입한 계정의 업그레이드를 해야지만 과금이 시작되므로, 잠시 Test를 위해 계정을 만들어서 신용카드를 연결 한다고 해서 사용료를 지불할 걱정은 하지 않아도 된다. 
 
 ## 1. Google Cloud Platform 가입하기
 
