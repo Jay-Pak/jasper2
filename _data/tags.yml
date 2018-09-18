@@ -6,3 +6,7 @@ bigquery:
   name: Big Query
   description: Google Cloud Platform Bigquery
   cover: False
+IaaS:
+  name: IaaS
+  description: Infrastructure as a Service offered by Google
+  cover: https://cloud.google.com/images/products/artwork/high-performance.svg
