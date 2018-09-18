@@ -8,7 +8,7 @@ date: 2018-09-18
 tags: [getting-started]
 class: post-template
 subclass: 'post'
-author: google-cloud
+author: compute-engine
 sitemap :
   changefreq : daily
   priority : 1.0
