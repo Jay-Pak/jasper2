@@ -4,7 +4,7 @@ current: post
 cover: False
 navigation: True
 title: Big Query ML 사용해 보기 (1)
-date: 2018-09-06 10:18:00
+date: 2018-09-06
 tags: [bigquery]
 class: post-template
 subclass: 'post'

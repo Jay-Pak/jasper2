@@ -1,12 +1,12 @@
 getting-started:
   name: getting-started
-  description: False
+  description: Getting Started By Google Cloud
   cover: False
 bigquery:
   name: bigquery
   description: Google Cloud Platform Bigquery
   cover: False
-IaaS:
-  name: Infrastructure-as-a-Service
+infrastructure:
+  name: infrastructure
   description: Infrastructure as a Service offered by Google
   cover: False

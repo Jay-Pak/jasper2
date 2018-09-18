@@ -3,8 +3,8 @@ layout: post
 current: post
 cover: False
 navigation: True
-title: Google Cloud SDK (gcloud) Install
-date: 2018-09-18 10:18:00
+title: Google Cloud SDK Install
+date: 2018-09-17
 tags: [getting-started]
 class: post-template
 subclass: 'post'
@@ -18,7 +18,7 @@ sitemap :
 
 Google Cloud는 Cloud위의 Resource를 관리할 수 있는 2가지 도구를 제공한다. 하나는 [`Cloud Web Console`](https://console.cloud.google.com)이고, 또 다른 하나는 `CLI(Command Line Interface : 명령표시줄)`로 관리할 수있는 `Cloud SDK`가 그것이다. 뿐만아니라 Google은 Cloud 위의 자원을 관리하기 편하도록 `RestAPI`를 이용한 도구를 제공하여 자원의 Deploy를 Automation 할 수 있도록 Library를 제공한다. (Java 혹은 PIP, NodeJS etc.). Cloud SDK는 Cloud Resource를 관리 함에 있어 편리하고 빠르게 관리 할 수 있는 방법을 제공한다.
 
-여기서는 Cloud SDK를 설치하는 방법에 대해 설명한다. 
+여기서는 Cloud SDK를 설치하는 방법에 대해 설명한다.
 
 
 
