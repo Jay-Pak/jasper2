@@ -23,7 +23,7 @@ Google Cloud의 Service를 이용하기 위해서는 [Google Cloud Platform Cons
 
 Google은 가입하는 순간 300\$의 무료 Credit을 12개월 동안 사용 가능 하도록 제공한다. 그리고, 300\$의 Credit을 전부 사용 했거나, 12개월의 기간이 끝난다 하더라도 자동으로 과금이 되지 않고, 가입한 계정의 업그레이드를 해야지만 과금이 시작되므로, 잠시 Test를 위해 계정을 만들어서 신용카드를 연결 한다고 해서 사용료를 지불할 걱정은 하지 않아도 된다. 
 
-## 1. Google Cloud Platform 가입하기
+## Google Cloud Platform 가입하기
 
 우선 가입하기 위해 위에 언급 했던 Google Cloud Platform Console(Https://console.cloud.google.com)로 접속 한다.
 
