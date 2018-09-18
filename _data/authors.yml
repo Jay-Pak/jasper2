@@ -23,7 +23,7 @@ google-cloud:
   cover: False
 compute-engine:
   username: compute-engine
-  name: Google Cloud Compute Engine
+  name: Compute Engine
   location: False
   url_full: https://cloud.google.com/compute
   url: cloud.google.com/compute
