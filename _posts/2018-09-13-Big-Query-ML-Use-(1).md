@@ -76,7 +76,7 @@ sitemap :
 >  
 >
 > <center>
->     <img src="../assets/images/bigquery/Bigquery-ML-1.png"/>
+>     <img src="./images/bigquery/Bigquery-ML-1.png"/>
 > 	<br/>
 >     <em>< Fig. 1 - 방문자 대비 실제 구매자 ></em>
 > </center>
@@ -125,7 +125,7 @@ $$
 >
 >
 > <center>
->     <img src="../assets/images/bigquery/Bigquery-ML-2.png"/>
+>     <img src="./images/bigquery/Bigquery-ML-2.png"/>
 > 	<br/>
 >     <em>< Fig. 2 - 매출 상위 5개 제품 ></em>
 > </center>
