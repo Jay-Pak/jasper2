@@ -17,7 +17,7 @@ sitemap :
 
 
 
-> [1. Big Query ML 사용해보기 (1) - Understanding Data(Business)](./Big-Query-ML-Use-(1))
+> [1. Big Query ML 사용해보기 (1) - Understanding Data(Business)]({{site.url}}/Big-Query-ML-Use-(1))
 
 
 
