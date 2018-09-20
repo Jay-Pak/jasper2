@@ -1,7 +1,7 @@
 getting-started:
   name: getting-started
   description: Getting Started By Google Cloud
-  cover: False
+  cover: assets/images/Icons/google-cloud-logo.png
 bigquery:
   name: bigquery
   description: Google Cloud Platform Bigquery

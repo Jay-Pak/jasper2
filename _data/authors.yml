@@ -17,7 +17,7 @@ google-cloud:
   url_full: https://cloud.google.com/
   url: cloud.google.com/
   bio: Google이 제공하는 Public Cloud Service
-  picture: False
+  picture: assets/images/Icons/google-cloud-logo.png
   facebook: False
   twitter: False
   cover: False
@@ -28,7 +28,7 @@ compute-engine:
   url_full: https://cloud.google.com/compute
   url: cloud.google.com/compute
   bio: Google이 제공하는 확장 가능한 고성능 VM
-  picture: False
+  picture: assets/images/Icons/Products-Services/Compute/Compute-Engine.png
   facebook: False
   twitter: False
   cover: False
