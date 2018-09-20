@@ -5,7 +5,7 @@ jay:
   url_full: https://jay-pak.github.io/
   url: jay-pak.github.io/
   bio: Started Google Cloud 
-  picture: assets/images/ghost.png
+  picture: assets/images/Icons/googleg_32dp.png
   facebook: ITLimited
   twitter: False
   cover: False
@@ -20,7 +20,7 @@ google-cloud:
   picture: assets/images/Icons/google-cloud-logo.png
   facebook: False
   twitter: False
-  cover: False
+  cover: false
 compute-engine:
   username: compute-engine
   name: Compute Engine
@@ -29,6 +29,17 @@ compute-engine:
   url: cloud.google.com/compute
   bio: Google이 제공하는 확장 가능한 고성능 VM
   picture: assets/images/Icons/Products-Services/Compute/Compute-Engine.png
+  facebook: False
+  twitter: False
+  cover: False
+bigquery:
+  username: bigquery
+  name: Big Query 
+  location: False
+  url_full: https://cloud.google.com/bigquery
+  url: cloud.google.com/bigquery
+  bio: 머신러닝이 내장된 빠르고 확장성이 뛰어나며 경제적인 분석용 완전 관리형 클라우드 데이터 웨어하우스
+  picture: assets/images/Icons/Products-Services/Big-Data/BigQuery.png
   facebook: False
   twitter: False
   cover: False

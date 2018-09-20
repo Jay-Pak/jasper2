@@ -5,10 +5,10 @@ cover: False
 navigation: True
 title: Big Query ML 사용해 보기 (1)
 date: 2018-09-06
-tags: [bigquery]
+tags: [bigdata]
 class: post-template
 subclass: 'post'
-author: google-cloud
+author: bigquery
 sitemap :
   changefreq : daily
   priority : 1.0

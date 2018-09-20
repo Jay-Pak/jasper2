@@ -5,10 +5,10 @@ cover: False
 navigation: True
 title: Bigquery ML - BigQuery에서 Machine Learning을..
 date: 2018-09-06
-tags: [bigquery]
+tags: [bigdata]
 class: post-template
 subclass: 'post'
-author: google-cloud
+author: bigquery
 comments: true
 sitemap :
   changefreq : daily
