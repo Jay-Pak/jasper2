@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/Icons/Products-Services/Developer-Tools/Cloud-SDK.svg
 navigation: True
 title: Google Cloud SDK Install
 date: 2018-09-17

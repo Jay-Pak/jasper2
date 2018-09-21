@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/Icons/Products-Services/Big-Data/BigQuery.svg
 navigation: True
 title: Big Query ML 뜯어보기
 date: 2018-09-06

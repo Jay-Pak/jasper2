@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/Icons/Products-Services/Extras/Google-Cloud-Platform.svg
 navigation: True
 title: Google Cloud Platform 가입하기
 date: 2018-09-18 

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/Icons/Products-Services/Big-Data/BigQuery.svg
 navigation: True
 title: Bigquery ML - BigQuery에서 Machine Learning을..
 date: 2018-09-06

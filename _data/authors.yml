@@ -28,7 +28,7 @@ compute-engine:
   url_full: https://cloud.google.com/compute
   url: cloud.google.com/compute
   bio: Google이 제공하는 확장 가능한 고성능 VM
-  picture: assets/images/Icons/Products-Services/Compute/Compute-Engine.png
+  picture: assets/images/Icons/Products-Services/Compute/Compute-Engine.svg
   facebook: False
   twitter: False
   cover: False
@@ -39,7 +39,18 @@ bigquery:
   url_full: https://cloud.google.com/bigquery
   url: cloud.google.com/bigquery
   bio: 머신러닝이 내장된 빠르고 확장성이 뛰어나며 경제적인 분석용 완전 관리형 클라우드 데이터 웨어하우스
-  picture: assets/images/Icons/Products-Services/Big-Data/BigQuery.png
+  picture: assets/images/Icons/Products-Services/Big-Data/BigQuery.svg
+  facebook: False
+  twitter: False
+  cover: False
+cloud-sdk:
+  username: cloud-sdk
+  name: Cloud SDK 
+  location: False
+  url_full: https://cloud.google.com/sdk/
+  url: cloud.google.com/sdk/
+  bio: Google Cloud Platform 제품 및 서비스를 위한 명령줄 인터페이스. Cloud SDK는 Cloud Platform에 사용되는 도구 모음입니다. 여기에 포함된 gcloud, gsutil, bq를 사용하여 명령줄을 통해 Google Compute Engine, Google Cloud Storage, Google BigQuery 등의 제품과 서비스에 액세스할 수 있습니다. 이러한 도구를 직접 사용할 수도 있고 자동 스크립트를 활용할 수도 있습니다.
+  picture: assets/images/Icons/Products-Services/Developer-Tools/Cloud-SDK.svg
   facebook: False
   twitter: False
   cover: False

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/Icons/Products-Services/Compute/Compute-Engine.svg
 navigation: True
 title: Google Cloud Compute Engine (2) - Compute Engine Instance 생성
 date: 2018-09-18

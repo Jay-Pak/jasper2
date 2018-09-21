@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: False
+cover: assets/images/Icons/Products-Services/Big-Data/BigQuery.svg
 navigation: True
 title: Big Query ML 사용해 보기 (1)
 date: 2018-09-06
