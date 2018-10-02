@@ -32,6 +32,17 @@ compute-engine:
   facebook: False
   twitter: False
   cover: False
+gke:
+  username: gke
+  name: Google Kubernetes Engine
+  location: False
+  url_full: https://cloud.google.com/kubernetes-engine/
+  url: cloud.google.com/kubernetes-engine/
+  bio: Google Cloud에서 제공하는 Kubernetes에서 컨테이너식 애플리케이션 배포, 관리, 확장하기
+  picture: assets/images/Icons/Products-Services/Compute/k8s_logo.svg
+  facebook: False
+  twitter: False
+  cover: False
 bigquery:
   username: bigquery
   name: Big Query 
