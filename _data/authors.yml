@@ -32,6 +32,17 @@ compute-engine:
   facebook: False
   twitter: False
   cover: False
+open-sources:
+  username: open-sources
+  name: Open Source
+  location: False
+  url_full: https://kafka.apache.org/
+  url: kafka.apache.org
+  bio: False
+  picture: https://kafka.apache.org/images/logo.png
+  facebook: False
+  twitter: False
+  cover: False
 gke:
   username: gke
   name: Google Kubernetes Engine
